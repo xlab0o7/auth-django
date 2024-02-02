@@ -1,9 +1,8 @@
 from django.shortcuts import render
-from django.views import View
+# from django.views import View
+# from rest_framework import generics, viewsets
 # Create your views here.
 
-
-def home(View):
-    pass
-    # get(self, request):
-    
+# class Teacher(viewsets.ModelViewSet):
+#     queryset =
+#     serializer_class =     
